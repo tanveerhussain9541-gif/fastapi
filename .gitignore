@@ -1,0 +1,4 @@
+/.venv
+/prog.py
+/random_forest_model.pkl
+/__pycache__
